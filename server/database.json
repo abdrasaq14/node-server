@@ -1,0 +1,21 @@
+[
+  {
+    "organization": "AfrimitDigitech",
+    "products": [
+      "developers",
+      "pizza"
+    ],
+    "marketValue": "90%",
+    "address": "sangotedo",
+    "ceo": "cn",
+    "country": "Taiwan",
+    "noOfEmployees": 2,
+    "employees": [
+      "james bond",
+      "jackie chan"
+    ],
+    "id": 1,
+    "createdAt": "2023-11-22T13:06:34.189Z",
+    "updatedAt": "2023-11-22T13:06:34.189Z"
+  }
+]
