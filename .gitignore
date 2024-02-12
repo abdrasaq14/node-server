@@ -1,6 +1,6 @@
-node_modules
+**/node_modules
 npm-debug.log
-.DS_Store
+**/.DS_Store
 __MACOSX/
-lib/
+**/lib/
 yarn-error.log
