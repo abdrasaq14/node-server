@@ -1,7 +1,6 @@
 //import http, { IncomingMessage, Server, ServerResponse } from "http";
 import axios from "axios";
 import * as cheerio from "cheerio";
-import { error } from "console";
 import * as http from "http";
 /*
 implement your server code here
@@ -54,8 +53,9 @@ const server = http.createServer((req, res) => {
   }
 });
 
-const port = process.env.PORT || 3009;
+const port = 3009;
 
 server.listen(port, () => {
   console.log(`server is now running at http://localhost:${port}`);
 });
+export default webScrapper

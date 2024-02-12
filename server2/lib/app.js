@@ -73,7 +73,8 @@ const server = http.createServer((req, res) => {
         }
     }
 });
-const port = process.env.PORT || 3009;
+const port = 3009;
 server.listen(port, () => {
     console.log(`server is now running at http://localhost:${port}`);
 });
+exports.default = webScrapper;
